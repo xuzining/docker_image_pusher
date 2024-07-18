@@ -1,4 +1,2 @@
-nginx
-#支持私库
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
